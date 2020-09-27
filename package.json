@@ -1,0 +1,13 @@
+{
+  "name": "tv_control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "power": "node index2.js"
+  },
+  "dependencies": {
+    "samsung-remote": "^1.6.0",
+    "samsung-tv-control": "^1.10.0"
+  }
+}
